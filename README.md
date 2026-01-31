@@ -191,19 +191,3 @@ Making education accessible, one course at a time! 🎓
   [![GitHub stars](https://img.shields.io/github/stars/Ionic-Errrrs-Code/ucourse-web-application?style=social)](https://github.com/Ionic-Errrrs-Code/ucourse-web-application)
   
 </div>
-
----
-
-## 📌 Repository Information
-
-### GitHub Repository Description
-
-```
-UCourse: Certification Courses - A modern web platform aggregating free Udemy courses with verified 100% off coupons. Built with React, TypeScript, Vite, Tailwind CSS, and deployed on Cloudflare Workers for fast global delivery. Access 4,440+ free courses with a sleek, mobile-responsive interface.
-```
-
-### GitHub Repository Tags
-
-```
-react, typescript, vite, tailwind-css, cloudflare-workers, udemy, free-courses, education, web-application, spa, react-router, shadcn-ui, edge-computing, course-platform, e-learning, seo-optimized, responsive-design, certification-courses, udemy-courses, free-education
-```
