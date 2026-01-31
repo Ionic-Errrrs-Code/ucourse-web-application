@@ -82,7 +82,7 @@
 ### 🔍 Course Browsing
 <img src="https://img.ionicerrrrscode.com/company-projects/ucourse-web-application/1.webp?v=1768937906119" alt="Course Browsing" width="800"/>
 
-### 📚 Course Details
+### 📚 Category Browsing
 <img src="https://img.ionicerrrrscode.com/company-projects/ucourse-web-application/2.webp?v=1768937909466" alt="Course Details" width="800"/>
 
 ### 🏷️ Category Filtering
@@ -153,50 +153,6 @@
     <td>✅ Added sitemap.xml, robots.txt, and React Helmet for dynamic meta tags</td>
   </tr>
 </table>
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Node.js (v16 or higher)
-- npm or yarn package manager
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/Ionic-Errrrs-Code/ucourse-web-application.git
-
-# Navigate to project directory
-cd ucourse-web-application
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
-
-### Build for Production
-
-```bash
-# Create production build
-npm run build
-
-# Preview production build
-npm run preview
-```
-
-### Deployment
-
-The application is deployed on Cloudflare Workers for optimal edge performance. Configure your Cloudflare Workers settings and deploy using:
-
-```bash
-# Deploy to Cloudflare Workers
-npm run deploy
-```
 
 ---
 
